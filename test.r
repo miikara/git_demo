@@ -4,3 +4,4 @@ hist(iris$Sepal.Length,
      main='Histogram',
      xlab='Length',
      ylab='Frequency')
+# Nakki
